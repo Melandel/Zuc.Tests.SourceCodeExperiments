@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Reflection", "Tests.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CompilationTime", "Tests.CompilationTime\Tests.CompilationTime.csproj", "{536F76F8-AF0E-40CF-9AED-7E87C8C7EBA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.NUnit", "Tests.NUnit\Tests.NUnit.csproj", "{926F64A9-4EB5-41ED-83DD-35750A1E6F70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{536F76F8-AF0E-40CF-9AED-7E87C8C7EBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{536F76F8-AF0E-40CF-9AED-7E87C8C7EBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{536F76F8-AF0E-40CF-9AED-7E87C8C7EBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926F64A9-4EB5-41ED-83DD-35750A1E6F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926F64A9-4EB5-41ED-83DD-35750A1E6F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926F64A9-4EB5-41ED-83DD-35750A1E6F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926F64A9-4EB5-41ED-83DD-35750A1E6F70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
