@@ -1,0 +1,8 @@
+namespace Tests.Syntax.TestOnGherkinWithStringOnlyApi.CustomFramework;
+
+public interface IDescribeTestInputAndRenderTestOutcomeWithStrings :
+	IExecuteTheTestAndRenderItsOutcomeAsString,
+	IExposeTestRunningExecutionPublicly,
+	IBuildTestInputAndSystemUnderTestFromStringDescription
+{
+}
